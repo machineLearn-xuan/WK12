@@ -1,1 +1,3 @@
-# WK12
+# Week 12
+
+Tensors and Neural Networks
